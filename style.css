@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    list-style: none;
+    scroll-behavior: smooth;
+    font-family: sans-serif;
+    font-family: 'Merriweather', serif;
+}
+
+
+.nav-link{
+    color: black !important;
+    font-size: 20px;
+    font-weight: 600;
+    transition: 0.5s;
+    margin-left: 30px;
+ }
+ .nav-text{
+    color: black !important;
+ }
+
+ .nav-link:hover {
+    background: #f7f5f2;
+    border-radius: 5px;
+    color: black;
+ }
+
+
+ .d-flex {
+    margin-right: 10px;
+ }
+
+
+ .carousel-item img {
+    width: 100%;
+    height: 100vh;
+}
+#about-btn:hover{
+    background-color: #c7924d;
+    color: white;
+}
+.row .image img {
+    width: 100%;
+    height: 100%;
+}
+
+.row .image2 img {
+    width: 100%;
+    height: 100%;
+
+    a
+}
+
